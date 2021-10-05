@@ -1,0 +1,1 @@
+insert into student(id, name ,email) values(1,'Jack','jack@gmail.com');
